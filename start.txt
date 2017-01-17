@@ -1,1 +1,1 @@
-Test Git Quick Strat demo
+Test Git Quick Start demo
